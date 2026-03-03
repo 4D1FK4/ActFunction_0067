@@ -10,3 +10,11 @@ void start(){
     cin >> jarijari;
 }
 return jarijari * phi;
+
+void end(){
+    cout << "Hasilnya adalah =" << jarijari
+}
+int main(){
+    start();
+    end();
+}
